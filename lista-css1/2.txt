@@ -1,0 +1,14 @@
+O que são seletores CSS? Quais são os tipos existentes?
+
+Resposta:
+
+Seletores CSS são usados para escolher quais elementos HTML você quer estilizar. Principais tipos existentes:
+
+Seletores de tipo: Selecionam todos os elementos de um tipo, como div ou p.
+Seletores de classe: Selecionam elementos com uma classe específica, como .classe.
+Seletores de ID: Selecionam um elemento com um ID específico, como #id.
+Seletores de atributo: Selecionam elementos com certos atributos, como [type="text"].
+Seletores de descendente: Selecionam elementos que estão dentro de outro elemento, como div p.
+Seletores de filho: Selecionam filhos diretos de um elemento, como ul > li.
+Seletores de pseudo-classe: Selecionam elementos em um estado específico, como :hover.
+Seletores de pseudo-elemento: Selecionam partes de um elemento, como ::before.
