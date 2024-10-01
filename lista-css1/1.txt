@@ -1,0 +1,12 @@
+O que é uma regra CSS? Explique o conceito de regra CSS e forneça um exemplo prático que inclua um seletor, uma propriedade e um valor.
+
+Resposta:
+
+Uma regra css é uma declaração de conjunto de propriedades de estilo, que pdoe ser aplicada em um ou mais elementos HTML de acordo com Seletor definido para regra. Uma regra css é delimitada por um par de chaves que contém a declaração das propriedade:valor
+
+Formato geral de uma regra css:
+
+Seletor {
+    propriedade:valor
+
+}
